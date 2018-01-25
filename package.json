@@ -1,0 +1,21 @@
+{
+  "name": "anaconda",
+  "version": "1.0.0",
+  "description": "CLI App to manage my things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/alwindoss/anaconda"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Alwin Doss",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
